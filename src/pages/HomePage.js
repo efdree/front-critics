@@ -43,7 +43,7 @@ function HomePage() {
   return (
     <Content>
       <Title>Games</Title>
-      <Link to="/newGames" style={PrimaryLink}>
+      <Link to="/newGame" style={PrimaryLink}>
         New Game
       </Link>
       <GameList games={games} />

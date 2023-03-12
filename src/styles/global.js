@@ -92,7 +92,7 @@ export const global = css`
     line-height: 1.5rem;
     font-family: ${fonts.primary};
     color: ${colors.black};
-    background-color: ${colors.background};
+    background-color: "${colors.white}";
     width: 360px;
     margin: 0 auto;
   }

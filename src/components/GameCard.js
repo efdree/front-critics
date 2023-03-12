@@ -104,7 +104,7 @@ function GameCard({ id, game }) {
   return (
     <WrapperLi key={id}>
       <ContImage>
-        <Link to={"showGame/" + game.id}>
+        <Link to={"/showGame/" + game.id}>
           <Image src={game.cover} alt={game.id} />
         </Link>
       </ContImage>
