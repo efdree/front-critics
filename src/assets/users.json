@@ -1,0 +1,32 @@
+[
+  {
+    "username": "carlos",
+    "email": "carlos@mail.com",
+    "password": "123456",
+    "role": "admin"
+  },
+  {
+    "username": "erik",
+    "email": "erik@mail.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "username": "felix",
+    "email": "felix@mail.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "username": "allison",
+    "email": "allison@mail.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "username": "dik",
+    "email": "dik@mail.com",
+    "password": "123456",
+    "role": "user"
+  }
+]
